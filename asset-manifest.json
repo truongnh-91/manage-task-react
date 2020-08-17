@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/manage-task-react/static/css/main.d3ed46f5.chunk.css",
+    "main.js": "/manage-task-react/static/js/main.92815b61.chunk.js",
+    "main.js.map": "/manage-task-react/static/js/main.92815b61.chunk.js.map",
+    "runtime-main.js": "/manage-task-react/static/js/runtime-main.aced0525.js",
+    "runtime-main.js.map": "/manage-task-react/static/js/runtime-main.aced0525.js.map",
+    "static/js/2.69770cff.chunk.js": "/manage-task-react/static/js/2.69770cff.chunk.js",
+    "static/js/2.69770cff.chunk.js.map": "/manage-task-react/static/js/2.69770cff.chunk.js.map",
+    "index.html": "/manage-task-react/index.html",
+    "precache-manifest.24cce04bd1a85dd943f9b87207030d11.js": "/manage-task-react/precache-manifest.24cce04bd1a85dd943f9b87207030d11.js",
+    "service-worker.js": "/manage-task-react/service-worker.js",
+    "static/css/main.d3ed46f5.chunk.css.map": "/manage-task-react/static/css/main.d3ed46f5.chunk.css.map",
+    "static/js/2.69770cff.chunk.js.LICENSE.txt": "/manage-task-react/static/js/2.69770cff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aced0525.js",
+    "static/js/2.69770cff.chunk.js",
+    "static/css/main.d3ed46f5.chunk.css",
+    "static/js/main.92815b61.chunk.js"
+  ]
+}
